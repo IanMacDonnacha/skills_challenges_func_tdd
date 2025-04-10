@@ -6,5 +6,3 @@ def make_snippet(str1):
     else:
         return str1
  
-
-print(make_snippet("hello my name is potato man"))
